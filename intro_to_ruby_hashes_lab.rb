@@ -1,5 +1,5 @@
 def new_hash
-  hash = new_has{}
+  hash = hash.New
 
 end
 
